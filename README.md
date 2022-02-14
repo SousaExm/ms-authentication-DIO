@@ -1,9 +1,9 @@
-### Microsserviço de autenticaçao
+## Microsserviço de autenticaçao
 
-# Descricao:
+### Descricao
 Criaçao de um microsserviço de autenticacao, disponibilizado pelo bootcamp Inter Frontend Developer da Digital Innovation One.
 
-# Tecnologias Usadas
+### Tecnologias Usadas
 
 <ul>
     <li>Node.js</li>
@@ -11,6 +11,7 @@ Criaçao de um microsserviço de autenticacao, disponibilizado pelo bootcamp Int
     <li>Express</li>
 </ul>
 
-# Habilidades adquiridas
+### Habilidades adquiridas
 
 Através desse bootcamp aprendi de forma sucinta a utilizar o framework express para criaçao de um CRUD.
+
